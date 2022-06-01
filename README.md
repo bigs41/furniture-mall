@@ -7,7 +7,7 @@
 
 ```cmd
 cd existing_repo
-git remote add origin https://gitlab.com/bigs41/vdecor.git
+git remote add origin https://github.com/bigs41/furniture-mall.git
 git branch -M main
 git push -uf origin main
 ```
