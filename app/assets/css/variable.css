@@ -1,0 +1,14 @@
+/*------------- Variable ------------*/
+
+:root {
+    --iq-main: #f1f1f1;
+    --iq-black: #000;
+    --iq-txt: rgb(20, 20, 20);
+    --iq-white: #fff;
+    --iq-blue: #215DCF;
+    --iq-grey: #B9C0C9;
+    --iq-body: #f1f5f7;
+    --iq-boder: #b2b2b2;
+    --iq-body-text: #c7c8cc;
+    --iq-dark-more-text: #707070;
+}

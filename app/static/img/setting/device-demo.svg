@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="72" viewBox="0 0 244 72">
+  <g id="Group_7628" data-name="Group 7628" transform="translate(-1446 -309)">
+    <rect id="Rectangle_2096" data-name="Rectangle 2096" width="244" height="72" transform="translate(1446 309)" fill="#fff"/>
+    <text id="ซื้อเหรียญ" transform="translate(1522 367)" fill="#ce0038" font-size="12" font-family="DBHeaventt-Light, DB Heavent" font-weight="300"><tspan x="0" y="0">ซื้อเหรียญ</tspan></text>
+    <text id="Member_VIP" data-name="Member VIP" transform="translate(1579 367)" fill="#d8d8d8" font-size="12" font-family="DBHeaventt-Light, DB Heavent" font-weight="300"><tspan x="0" y="0">Member VIP</tspan></text>
+    <g id="Group_7134" data-name="Group 7134" transform="translate(1458.229 311.867)">
+      <g id="Group_135" data-name="Group 135" transform="translate(195.541 6.655)">
+        <path id="Path_57" data-name="Path 57" d="M420.626,83.125a1.033,1.033,0,1,0,1.107,1.03A1.069,1.069,0,0,0,420.626,83.125Z" transform="translate(-415.852 -78.35)"/>
+        <path id="Path_58" data-name="Path 58" d="M418.631,82.652a.645.645,0,0,0,0,.958.765.765,0,0,0,1.028,0,2.613,2.613,0,0,1,3.425,0,.764.764,0,0,0,1.028,0,.645.645,0,0,0,0-.958A4.179,4.179,0,0,0,418.631,82.652Z" transform="translate(-416.598 -79.193)"/>
+        <path id="Path_59" data-name="Path 59" d="M426.669,81.83a6.79,6.79,0,0,0-9.122,0,.646.646,0,0,0,0,.96.765.765,0,0,0,1.028,0,5.4,5.4,0,0,1,7.067,0,.771.771,0,0,0,1.029,0A.647.647,0,0,0,426.669,81.83Z" transform="translate(-417.333 -80.07)"/>
+      </g>
+      <g id="Group_136" data-name="Group 136" transform="translate(182.714 7.053)">
+        <path id="Path_60" data-name="Path 60" d="M414.653,80.134a.7.7,0,0,0-.76.621v5.113a.774.774,0,0,0,1.518,0V80.755A.7.7,0,0,0,414.653,80.134Z" transform="translate(-405.572 -80.134)"/>
+        <path id="Path_61" data-name="Path 61" d="M413.144,81.154a.7.7,0,0,0-.76.621v3.586a.774.774,0,0,0,1.518,0V81.775A.7.7,0,0,0,413.144,81.154Z" transform="translate(-406.82 -79.627)"/>
+        <path id="Path_62" data-name="Path 62" d="M411.62,82a.7.7,0,0,0-.758.623v2.318a.773.773,0,0,0,1.517,0V82.623A.7.7,0,0,0,411.62,82Z" transform="translate(-408.079 -79.206)"/>
+        <path id="Path_63" data-name="Path 63" d="M410.1,82.462a.7.7,0,0,0-.758.623v1.626a.773.773,0,0,0,1.517,0V83.085A.7.7,0,0,0,410.1,82.462Z" transform="translate(-409.339 -78.976)"/>
+      </g>
+      <g id="Rectangle_89" data-name="Rectangle 89" transform="translate(208.032 6.872)" fill="none" stroke="#000" stroke-width="1">
+        <rect width="11.87" height="6.872" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10.87" height="5.872" rx="1.5" fill="none"/>
+      </g>
+      <rect id="Rectangle_90" data-name="Rectangle 90" width="8.746" height="4.373" rx="1" transform="translate(209.281 8.121)"/>
+      <path id="Path_78" data-name="Path 78" d="M-2773.811,81.772V83.9a1.049,1.049,0,0,0,.881-1.052A1.014,1.014,0,0,0-2773.811,81.772Z" transform="translate(2994.568 -72.587)"/>
+      <text id="_3:15" data-name="3:15" transform="translate(0 11)" font-size="13" font-family="DBHeaventt-Light, DB Heavent" font-weight="300"><tspan x="0" y="0">3:15</tspan></text>
+    </g>
+    <text id="เติมเหรียญ" transform="translate(1552.695 345.294)" font-size="12" font-family="DBHeaventt-Light, DB Heavent" font-weight="300"><tspan x="0" y="0">เติมเหรียญ</tspan></text>
+    <g id="arrow-left-1" transform="translate(1456.133 339.075)">
+      <path id="Arrow-left-1-2" data-name="Arrow-left-1" d="M4.247,6.654A.807.807,0,0,0,4.034,6.1L1.777,3.716,4.034,1.33a.813.813,0,0,0,0-1.1.706.706,0,0,0-1.041,0L.216,3.166a.808.808,0,0,0,0,1.1L2.991,7.2a.706.706,0,0,0,1.041,0,.8.8,0,0,0,.212-.549" transform="translate(0 0)"/>
+    </g>
+    <line id="Line_331" data-name="Line 331" y2="8.121" transform="translate(1568 360.908)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
