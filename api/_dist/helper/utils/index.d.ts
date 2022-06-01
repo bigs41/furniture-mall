@@ -1,0 +1,17 @@
+export declare const range: (start: any, stop: any, step?: number) => any[];
+export declare const reqJson: (obj?: {}, item?: any[]) => {};
+export declare const queryPagination: ($model: any, $query?: {}) => any;
+export declare const empty: (mixed_var: any) => boolean;
+export declare const get: (items: any, key: any, defaultData: any) => any;
+export declare const getlist: (input: any, list?: any[], defaults?: string) => string;
+export declare const IsEmail: (email: any) => boolean;
+export declare const checkEmailVerify: (email: string) => Promise<unknown>;
+export declare const getBoolean: (value: any) => boolean;
+export declare const isNumber: (s: any) => boolean;
+export declare const isNumeric: (value: any) => boolean;
+export declare const getNumber: (s: any) => any;
+export declare const filter: (items: any, fn: any) => any;
+export declare const testJSON: (text: any) => boolean;
+export declare const reqJsonConverte: (obj?: {}) => {};
+export declare const only: (obj: any, keys?: any) => {};
+export declare const pdfBuffer: (html: any, data: any, options?: {}) => any;

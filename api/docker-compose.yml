@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  vdecor:
+    image: registry.gitlab.com/vdecor/vdecor/vdecor:latest
+    build: ../
+    deploy:
+      replicas: 1
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      mongo_url: mongodb://mongodb/vdecor
+    volumes:
+      - ./conf.js:/app/conf.js
