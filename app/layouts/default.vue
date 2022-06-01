@@ -154,7 +154,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'vee-decor',
+      title: 'furniture-mall',
     }
   },
   computed:{
